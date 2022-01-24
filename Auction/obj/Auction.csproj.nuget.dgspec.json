@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Auction\\Auction.csproj": {}
+    "E:\\Projects\\Application\\Auction\\Auction\\Auction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Auction\\Auction.csproj": {
+    "E:\\Projects\\Application\\Auction\\Auction\\Auction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Auction\\Auction.csproj",
+        "projectUniqueName": "E:\\Projects\\Application\\Auction\\Auction\\Auction.csproj",
         "projectName": "Auction",
-        "projectPath": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Auction\\Auction.csproj",
-        "packagesPath": "C:\\Users\\MondDiolola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Auction\\obj\\",
+        "projectPath": "E:\\Projects\\Application\\Auction\\Auction\\Auction.csproj",
+        "packagesPath": "C:\\Users\\Mond\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Application\\Auction\\Auction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MondDiolola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mond\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -57,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

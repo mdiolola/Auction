@@ -46,19 +46,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MondDiolola\\.nuget\\packages\\": {}
+    "C:\\Users\\Mond\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Models\\Models.csproj",
+      "projectUniqueName": "E:\\Projects\\Application\\Auction\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Models\\Models.csproj",
-      "packagesPath": "C:\\Users\\MondDiolola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Models\\obj\\",
+      "projectPath": "E:\\Projects\\Application\\Auction\\Models\\Models.csproj",
+      "packagesPath": "C:\\Users\\Mond\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\Application\\Auction\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MondDiolola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mond\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,11 +72,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Data\\Data.csproj"
+            "E:\\Projects\\Application\\Auction\\Data\\Data.csproj": {
+              "projectPath": "E:\\Projects\\Application\\Auction\\Data\\Data.csproj"
             },
-            "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Entities\\Entities.csproj"
+            "E:\\Projects\\Application\\Auction\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\Projects\\Application\\Auction\\Entities\\Entities.csproj"
             }
           }
         }
@@ -105,7 +105,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

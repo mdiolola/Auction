@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cBo4Vk6whjhHqtoUYaBfEfD/Gc/5jgkKonJOmGLGlul0Td9OuHRfRACG8TyFQ5IX7lozQ1itTCSIlni6NMPdLg==",
+  "dgSpecHash": "5iDh1meF31VLxEcqIIZgQDSaU6te+OlHFyZo43GRW8BTyi0Wv1ZlgAs8bMvIAoM63jsuk0fdwJSzRrSHRCyLeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Auction\\Auction.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Projects\\Application\\Auction\\Auction\\Auction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mond\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

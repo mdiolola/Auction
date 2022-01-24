@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v3K43R1eM3WLS31JMGjiFGx2S0nvvQ0V+pDxqkJs9lKCOPLCRtZMUX2nnPlJbynFZlw0DeD3ceAhO2oDAeyjPA==",
+  "dgSpecHash": "oZDa5/cvvuyn61ypgSZaOOoe4pbCmhMR1XtDlkIuhtkpfRZ4LaYqFSJrReoKKdXvQgVME34I037Z0hvNkU+RTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MondDiolola\\source\\repos\\Auction\\Models\\Models.csproj",
+  "projectFilePath": "E:\\Projects\\Application\\Auction\\Models\\Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
